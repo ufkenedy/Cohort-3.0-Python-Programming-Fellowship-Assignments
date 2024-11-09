@@ -1,5 +1,1 @@
-# arewaDS
-AREWA FELLOWSHIP
-
-Hello World
-step 1
+#AREWA DATA SCIENCE FELLOWSHIP
