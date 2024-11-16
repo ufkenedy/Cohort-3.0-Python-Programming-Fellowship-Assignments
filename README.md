@@ -41,3 +41,12 @@ Fellowship learning
 # images
 
 ![git logo](https://github.com/user-attachments/assets/41c67cb6-b0fa-415b-8dbd-47e48347bdbf)
+
+
+# highlihting
+
+## code and syntax
+
+'''python
+print("hello, world!")
+'''
