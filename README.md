@@ -47,6 +47,6 @@ Fellowship learning
 
 ## code and syntax
 
-'''python
+```python
 print("hello, world!")
-'''
+```
