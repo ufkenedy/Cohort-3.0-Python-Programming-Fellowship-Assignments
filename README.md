@@ -57,3 +57,24 @@ print("hello, world!")
 ```bash
 git clone"hello, world!"
 ```
+
+# Tables
+pipes | and dash-
+|name     |role|dept.|
+|-|-|-|                    
+|kiranki  |lank|     |
+
+# Task list
+
+- [] x
+- [ ] empty
+- [x] ticked
+
+# horizontal line
+--- or ***
+
+---
+***
+
+
+
